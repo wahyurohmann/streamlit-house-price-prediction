@@ -7,5 +7,5 @@ The objective of this project is to build a machine learning model capable of pr
 
 Through this project, participants gained practical experience in the End-to-end machine learning workflow, from collecting data to deployment. This model file create by Kak Ilham to be deployment practice
 
-This model deploy to streamlit app that connect to github. You can access my deployment website via this link below 👇
+This model deploy to streamlit app that connect to github. You can access my deployment website via this link 👉
 📎🏠 https://digistar-house-price-prediction.streamlit.app/
